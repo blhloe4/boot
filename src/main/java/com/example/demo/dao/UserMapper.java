@@ -5,4 +5,7 @@ import org.springframework.web.bind.annotation.Mapping;
 
 @Repository
 public interface UserMapper {
+
+
+
 }
